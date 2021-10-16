@@ -12,7 +12,7 @@ A computer vision model which predicts the name of the Indian food through its i
 
 
 
-1. #### Imported Food101 dataset from **[indian-food-classification](https://www.kaggle.com/theeyeschico/indian-food-classification)** Module.
+1. #### Imported dataset from **[indian-food-classification](https://www.kaggle.com/theeyeschico/indian-food-classification)** Module.
 
 
 We are dealing with a complex Neural Network (EfficientNetB0) its a good practice to have few callbacks set up. The one I have used in here is:
