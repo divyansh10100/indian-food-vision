@@ -3,7 +3,7 @@ A computer vision model which predicts the name of the indian food through its i
 
 > ##### **Dataset used :**  **`Indian-food-classification`**
 
-> ##### **Model Used :** **`EfficientNetB1`** and **`Resnet50V2`**
+> ##### **Model Used :** **`EfficientNetB0`** and **`Resnet50V2`**
 
 > ##### **Accuracy :** **`91%`**
 
